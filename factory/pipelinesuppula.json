@@ -1,0 +1,15 @@
+{
+	"name": "pipelinesuppula",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d3d84d7f-0c41-4700-bdf2-f86f97b95d81",
+		"tenantId": "0e095b55-5350-44ee-aef2-b897f82a34cd"
+	}
+}
